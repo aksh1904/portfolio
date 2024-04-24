@@ -1,0 +1,158 @@
+.contact3,
+.lets-create-something {
+  position: absolute;
+  text-transform: capitalize;
+}
+.contact3 {
+  top: 135px;
+  left: 275px;
+  font-size: var(--font-size-45xl);
+  text-decoration: underline;
+  display: flex;
+  color: var(--color-midnightblue);
+  align-items: center;
+  justify-content: center;
+  width: 574px;
+}
+.lets-create-something {
+  top: 328px;
+  left: 53px;
+  font-size: var(--font-size-29xl);
+  font-weight: 500;
+  color: #172c66;
+}
+.akshatsharma1904gmailcom {
+  position: absolute;
+  top: 386px;
+  left: -171px;
+  text-transform: lowercase;
+  font-weight: 600;
+  color: var(--color-midnightblue);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1519px;
+  height: 95px;
+}
+.instagram-icon,
+.snapchat {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 47px;
+  height: 48px;
+  overflow: hidden;
+}
+.snapchat {
+  left: 88px;
+}
+.icons1,
+.vector-icon {
+  position: absolute;
+  top: 633px;
+  left: 85px;
+  width: 135px;
+  height: 48px;
+}
+.vector-icon {
+  height: 3.89%;
+  width: 3.58%;
+  top: 65.65%;
+  right: 89.33%;
+  bottom: 30.46%;
+  left: 7.08%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.aksh-,
+.akshat-sharma,
+.div {
+  position: absolute;
+  font-weight: 600;
+}
+.div {
+  top: 502px;
+  left: 53px;
+  text-transform: lowercase;
+}
+.aksh-,
+.akshat-sharma {
+  left: 153px;
+  font-size: var(--font-size-xl);
+  text-decoration: underline;
+  color: inherit;
+}
+.aksh- {
+  top: 642px;
+  text-transform: lowercase;
+}
+.akshat-sharma {
+  top: 714px;
+}
+.about2,
+.home2 {
+  position: absolute;
+  top: 17px;
+  left: 630.9px;
+  cursor: pointer;
+}
+.home2 {
+  left: 542px;
+}
+.ra22110270101212 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-17xl);
+  display: flex;
+  align-items: center;
+  width: 341.2px;
+  height: 31.5px;
+}
+.contact4 {
+  position: absolute;
+  left: 990.7px;
+}
+.contact4,
+.links2,
+.projects2 {
+  top: 17px;
+  cursor: pointer;
+}
+.links2 {
+  position: absolute;
+  left: 911px;
+}
+.projects2 {
+  left: 722.4px;
+}
+.nav2,
+.projects2,
+.skills4 {
+  position: absolute;
+}
+.skills4 {
+  top: 17px;
+  left: 836px;
+  cursor: pointer;
+}
+.nav2 {
+  top: 39px;
+  left: 42px;
+  width: 1081.7px;
+  height: 46px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+}
+.contact2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-oldlace);
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-50xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

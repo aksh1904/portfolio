@@ -1,0 +1,154 @@
+.skills1 {
+  position: absolute;
+  top: 145px;
+  left: 433px;
+  text-decoration: underline;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 574px;
+}
+.image-2-icon,
+.image-3-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 150px;
+  height: 211.5px;
+  object-fit: cover;
+}
+.image-3-icon {
+  left: 225px;
+  height: 212.3px;
+}
+.image-4-icon,
+.image-5-icon,
+.image-6-icon,
+.image-7-icon {
+  position: absolute;
+  top: 23px;
+  left: 589px;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+.image-5-icon,
+.image-6-icon,
+.image-7-icon {
+  top: 39px;
+  left: 399px;
+  height: 133.6px;
+}
+.image-6-icon,
+.image-7-icon {
+  top: 23px;
+  left: 814px;
+  height: 150px;
+}
+.image-7-icon {
+  top: 325px;
+  left: 589px;
+}
+.image-10-icon,
+.image-11-icon,
+.image-8-icon,
+.image-9-icon {
+  position: absolute;
+  top: 327px;
+  left: 17px;
+  width: 150px;
+  height: 146.3px;
+  object-fit: cover;
+}
+.image-10-icon,
+.image-11-icon,
+.image-9-icon {
+  left: 225px;
+  height: 146.2px;
+}
+.image-10-icon,
+.image-11-icon {
+  top: 326px;
+  left: 399px;
+  height: 146.7px;
+}
+.image-11-icon {
+  top: 323px;
+  left: 814px;
+  height: 150px;
+}
+.icons {
+  position: absolute;
+  top: 302px;
+  left: 158px;
+  width: 964px;
+  height: 475px;
+}
+.about,
+.home {
+  position: absolute;
+  top: 17px;
+  left: 630.9px;
+  cursor: pointer;
+}
+.home {
+  left: 542px;
+}
+.ra2211027010121 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-17xl);
+  display: flex;
+  align-items: center;
+  width: 341.2px;
+  height: 31.5px;
+}
+.contact {
+  position: absolute;
+  left: 990.7px;
+}
+.contact,
+.links,
+.projects {
+  top: 17px;
+  cursor: pointer;
+}
+.links {
+  position: absolute;
+  left: 911px;
+}
+.projects {
+  left: 722.4px;
+}
+.nav,
+.projects,
+.skills2 {
+  position: absolute;
+}
+.skills2 {
+  top: 17px;
+  left: 836px;
+  cursor: pointer;
+}
+.nav {
+  top: 0;
+  left: 26px;
+  width: 1081.7px;
+  height: 46px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.skills {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-oldlace);
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-midnightblue);
+  font-family: var(--font-inter);
+}

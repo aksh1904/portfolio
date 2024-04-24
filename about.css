@@ -1,0 +1,139 @@
+.image-1-icon {
+  position: absolute;
+  top: 339px;
+  left: 58px;
+  width: 409px;
+  height: 402px;
+  object-fit: cover;
+}
+.about6 {
+  position: absolute;
+  top: 158px;
+  left: 435px;
+  font-size: var(--font-size-45xl);
+  text-decoration: underline;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 574px;
+}
+.icons2,
+.snapchat1 {
+  position: absolute;
+  width: 43.3px;
+  height: 48px;
+}
+.snapchat1 {
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+.icons2 {
+  top: 278px;
+  left: 84.7px;
+}
+.im-akshat-sharma {
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.about-text,
+.im-akshat-sharma,
+.t-i {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 678px;
+  height: 74px;
+}
+.t-i {
+  top: 374px;
+  left: 534px;
+  height: 326px;
+  font-size: var(--font-size-29xl);
+}
+.i-am-enrolled {
+  margin: 0;
+}
+.i-am-enrolled-container1 {
+  width: 100%;
+}
+.i-am-enrolled-container {
+  position: absolute;
+  top: 460px;
+  left: 530px;
+  color: var(--color-black);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 658px;
+  height: 145px;
+}
+.about7,
+.home5 {
+  position: absolute;
+  top: 17px;
+  left: 630.9px;
+  cursor: pointer;
+}
+.home5 {
+  left: 542px;
+}
+.ra22110270101215 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-17xl);
+  display: flex;
+  align-items: center;
+  width: 341.2px;
+  height: 31.5px;
+}
+.contact7 {
+  position: absolute;
+  left: 990.7px;
+}
+.contact7,
+.links7,
+.projects7 {
+  top: 17px;
+  cursor: pointer;
+}
+.links7 {
+  position: absolute;
+  left: 911px;
+}
+.projects7 {
+  left: 722.4px;
+}
+.nav5,
+.projects7,
+.skills7 {
+  position: absolute;
+}
+.skills7 {
+  top: 17px;
+  left: 836px;
+  cursor: pointer;
+}
+.nav5 {
+  top: 24px;
+  left: 14px;
+  width: 1081.7px;
+  height: 46px;
+  text-align: left;
+  color: var(--color-black);
+}
+.about5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-oldlace);
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-midnightblue);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,95 @@
+.image-19-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1152px;
+  object-fit: cover;
+}
+.about1,
+.home1 {
+  position: absolute;
+  top: 17px;
+}
+.about1 {
+  left: 630.9px;
+  cursor: pointer;
+}
+.home1 {
+  left: 542px;
+}
+.ra22110270101211 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-17xl);
+  display: flex;
+  align-items: center;
+  width: 341.2px;
+  height: 31.5px;
+}
+.contact1 {
+  position: absolute;
+  left: 990.7px;
+}
+.contact1,
+.links1,
+.projects1 {
+  top: 17px;
+  cursor: pointer;
+}
+.links1 {
+  position: absolute;
+  left: 911px;
+}
+.projects1 {
+  left: 722.4px;
+}
+.nav1,
+.projects1,
+.skills3 {
+  position: absolute;
+}
+.skills3 {
+  top: 17px;
+  left: 836px;
+  cursor: pointer;
+}
+.nav1 {
+  top: 19px;
+  left: 32px;
+  width: 1081.7px;
+  height: 46px;
+}
+.hello-there-i {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 280px);
+}
+.developer-student-and {
+  position: absolute;
+  top: 76px;
+  left: calc(50% - 390px);
+  font-size: var(--font-size-29xl);
+  color: var(--color-oldlace);
+}
+.left-side-text {
+  position: absolute;
+  top: 434px;
+  left: calc(50% - 402px);
+  width: 780px;
+  height: 134px;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+}
+.landing-page-1 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #fef6e4, #050505);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

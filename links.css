@@ -1,0 +1,93 @@
+.certificates,
+.hackerrank,
+.links4 {
+  position: absolute;
+  text-decoration: underline;
+  text-transform: capitalize;
+}
+.links4 {
+  top: 140px;
+  left: 288px;
+  font-size: var(--font-size-45xl);
+  display: flex;
+  color: var(--color-midnightblue);
+  align-items: center;
+  justify-content: center;
+  width: 574px;
+}
+.certificates,
+.hackerrank {
+  top: 342px;
+  left: 88px;
+  font-weight: 500;
+  color: inherit;
+}
+.certificates {
+  top: 430px;
+}
+.about3,
+.home3 {
+  position: absolute;
+  top: 17px;
+  left: 630.9px;
+  cursor: pointer;
+}
+.home3 {
+  left: 542px;
+}
+.ra22110270101213 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-17xl);
+  display: flex;
+  align-items: center;
+  width: 341.2px;
+  height: 31.5px;
+}
+.contact5 {
+  position: absolute;
+  left: 990.7px;
+}
+.contact5,
+.links5,
+.projects3 {
+  top: 17px;
+  cursor: pointer;
+}
+.links5 {
+  position: absolute;
+  left: 911px;
+}
+.projects3 {
+  left: 722.4px;
+}
+.nav3,
+.projects3,
+.skills5 {
+  position: absolute;
+}
+.skills5 {
+  top: 17px;
+  left: 836px;
+  cursor: pointer;
+}
+.nav3 {
+  top: 25px;
+  left: 42px;
+  width: 1081.7px;
+  height: 46px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+}
+.links3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-oldlace);
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

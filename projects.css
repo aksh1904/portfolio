@@ -1,0 +1,245 @@
+.projects5 {
+  position: absolute;
+  top: 208px;
+  left: 433px;
+  font-size: var(--font-size-45xl);
+  text-decoration: underline;
+  text-transform: capitalize;
+  display: flex;
+  color: var(--color-midnightblue);
+  align-items: center;
+  justify-content: center;
+  width: 574px;
+}
+.image-15-icon,
+.image-16-icon,
+.image-17-icon {
+  position: absolute;
+  top: 1959px;
+  left: 100px;
+  width: 566px;
+  height: 339px;
+  object-fit: cover;
+}
+.image-16-icon,
+.image-17-icon {
+  top: 1176px;
+  left: 97px;
+}
+.image-17-icon {
+  top: 467px;
+  left: 94px;
+}
+.banking-system {
+  margin: 0;
+}
+.made-using-c {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+}
+.banking-system-made-container1 {
+  width: 100%;
+}
+.banking-system-made-container {
+  top: 814px;
+  left: 95px;
+  width: 565px;
+  height: 362px;
+}
+.banking-system-made-container,
+.car-damage-detection-container,
+.guess-the-number-container {
+  position: absolute;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  font-size: var(--font-size-45xl);
+}
+.guess-the-number-container {
+  top: 1580px;
+  left: 94px;
+  letter-spacing: -0.06em;
+  width: 572px;
+  height: 249px;
+}
+.car-damage-detection-container {
+  top: 2411px;
+  left: 106px;
+  width: 554px;
+  height: 229px;
+}
+.image-18-icon {
+  position: absolute;
+  top: 2753px;
+  left: 94px;
+  width: 566px;
+  height: 373px;
+  object-fit: cover;
+}
+.expense-tracker-java-container,
+.this-project-involves {
+  position: absolute;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+}
+.expense-tracker-java-container {
+  top: 3174px;
+  left: 81px;
+  width: 619px;
+  height: 305px;
+  font-size: var(--font-size-45xl);
+}
+.this-project-involves {
+  top: 2791px;
+  left: 696px;
+  justify-content: center;
+  width: 493px;
+  height: 309px;
+}
+.mask-r-cnn-model,
+.the-game-generates,
+.this-project-uses-container {
+  position: absolute;
+  top: 467px;
+  left: 682px;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  width: 518px;
+  height: 339px;
+}
+.mask-r-cnn-model,
+.the-game-generates {
+  top: 1196px;
+  left: 660px;
+  justify-content: center;
+  width: 533px;
+  height: 384px;
+}
+.mask-r-cnn-model {
+  top: 2004px;
+  left: 682px;
+  width: 527px;
+  height: 262px;
+}
+.about4,
+.home4 {
+  position: absolute;
+  top: 17px;
+  left: 630.9px;
+  cursor: pointer;
+}
+.home4 {
+  left: 542px;
+}
+.ra22110270101214 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-17xl);
+  display: flex;
+  align-items: center;
+  width: 341.2px;
+  height: 31.5px;
+}
+.contact6 {
+  position: absolute;
+  left: 990.7px;
+}
+.contact6,
+.links6,
+.projects6 {
+  top: 17px;
+  cursor: pointer;
+}
+.links6 {
+  position: absolute;
+  left: 911px;
+}
+.projects6 {
+  left: 722.4px;
+}
+.nav4,
+.projects6,
+.skills6 {
+  position: absolute;
+}
+.skills6 {
+  top: 17px;
+  left: 836px;
+  cursor: pointer;
+}
+.nav4 {
+  top: 0;
+  left: 0;
+  width: 1081.7px;
+  height: 46px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+}
+.image-20-icon,
+.image-21-icon {
+  position: absolute;
+  top: 3436px;
+  left: 94px;
+  width: 383px;
+  height: 386px;
+  object-fit: cover;
+}
+.image-21-icon {
+  top: 4034px;
+  left: 86px;
+  width: 577px;
+  height: 436px;
+}
+.this-project-involves3 {
+  position: absolute;
+  top: 3479px;
+  left: 600px;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 589px;
+  height: 343px;
+}
+.maze-solver-bfs-container {
+  top: 3822px;
+  left: 28px;
+  width: 554px;
+  height: 169px;
+  font-size: var(--font-size-45xl);
+}
+.maze-solver-bfs-container,
+.spt-polyrecycle-datahub-container,
+.this-system-aims-container {
+  position: absolute;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+}
+.spt-polyrecycle-datahub-container {
+  top: 4470px;
+  left: 86px;
+  width: 574px;
+  height: 350px;
+  font-size: var(--font-size-45xl);
+}
+.this-system-aims-container {
+  top: 4042px;
+  left: 660px;
+  width: 529px;
+  height: 456px;
+}
+.projects4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-oldlace);
+  height: 4793px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

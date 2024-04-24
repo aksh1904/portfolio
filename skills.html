@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./skills.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="skills">
+      <b class="skills1">Skills</b>
+      <div class="icons">
+        <img class="image-2-icon" alt="" src="./public/image-2@2x.png" />
+
+        <img class="image-3-icon" alt="" src="./public/image-3@2x.png" />
+
+        <img class="image-4-icon" alt="" src="./public/image-4@2x.png" />
+
+        <img class="image-5-icon" alt="" src="./public/image-5@2x.png" />
+
+        <img class="image-6-icon" alt="" src="./public/image-6@2x.png" />
+
+        <img class="image-7-icon" alt="" src="./public/image-7@2x.png" />
+
+        <img class="image-8-icon" alt="" src="./public/image-8@2x.png" />
+
+        <img class="image-9-icon" alt="" src="./public/image-9@2x.png" />
+
+        <img class="image-10-icon" alt="" src="./public/image-10@2x.png" />
+
+        <img class="image-11-icon" alt="" src="./public/image-11@2x.png" />
+      </div>
+      <div class="nav">
+        <div class="about" id="aboutText">About</div>
+        <div class="home" id="homeText">Home</div>
+        <b class="ra2211027010121">RA2211027010121</b>
+        <div class="contact" id="contactText">Contact</div>
+        <div class="links" id="linksText">Links</div>
+        <div class="projects" id="projectsText">Projects</div>
+        <div class="skills2" id="skillsText">Skills</div>
+      </div>
+    </div>
+
+    <script>
+      var aboutText = document.getElementById("aboutText");
+      if (aboutText) {
+        aboutText.addEventListener("click", function (e) {
+          window.location.href = "./about.html";
+        });
+      }
+      
+      var homeText = document.getElementById("homeText");
+      if (homeText) {
+        homeText.addEventListener("click", function (e) {
+          window.location.href = "./landing-page.html";
+        });
+      }
+      
+      var contactText = document.getElementById("contactText");
+      if (contactText) {
+        contactText.addEventListener("click", function (e) {
+          window.location.href = "./contact.html";
+        });
+      }
+      
+      var linksText = document.getElementById("linksText");
+      if (linksText) {
+        linksText.addEventListener("click", function (e) {
+          window.location.href = "./links.html";
+        });
+      }
+      
+      var projectsText = document.getElementById("projectsText");
+      if (projectsText) {
+        projectsText.addEventListener("click", function (e) {
+          window.location.href = "./projects.html";
+        });
+      }
+      
+      var skillsText = document.getElementById("skillsText");
+      if (skillsText) {
+        skillsText.addEventListener("click", function (e) {
+          window.location.href = "skills.html";
+        });
+      }
+      </script>
+  </body>
+</html>
